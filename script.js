@@ -39,7 +39,6 @@ btn.addEventListener("click", function() {
     else {
         msg.innerHTML = `Oops It's not Correct, Plz Try Again ! 🥹`;
         document.getElementById("imageid").src = "https://media.tenor.com/FPzGMNfFGnYAAAAi/cute-cat.gif";
-        // document.getElementById("imageid").width = "300";
     }
 })
 
