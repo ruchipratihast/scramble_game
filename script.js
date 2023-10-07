@@ -1,4 +1,4 @@
-arr = ["india", "korea", "france", "china", "spain", "italy", "turkey", "germany", "malaysia", "mexico", "austria", "thailand", "canada", "singapore", "switzerland", "africa", "indonesia", "belgium", "japan", "australia", "brazil", "argentina","aljeria","libya","portugal","tunisia","nizer","nizeria","mauritania","mauritius","cambodia","phillipines","isreal","cyprus","jorden","uk","kuwait","usa","kazakistan","afganistan","ucraine"];
+let arr = ["india", "korea", "france", "china", "spain", "italy", "turkey", "germany", "malaysia", "mexico", "austria", "thailand", "canada", "singapore", "switzerland", "africa", "indonesia", "belgium", "japan", "australia", "brazil", "argentina","aljeria","libya","portugal","tunisia","nizer","nizeria","mauritania","mauritius","cambodia","phillipines","isreal","cyprus","jorden","uk","kuwait","usa","kazakistan","afganistan","ucraine"];
 
 const word = document.querySelector(".word");
 const inputarea = document.querySelector("input");
