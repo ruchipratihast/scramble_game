@@ -33,7 +33,7 @@ return  array;
 
 ### Initial Page
 
-<img id="imageid" src="screenshot/1.png"
+<img id="imageid" src="screenshot\1.png"
             alt="My GIF Image" width="150" height="180">
 
 ### When Player give Wrong Answer
