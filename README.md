@@ -33,15 +33,12 @@ return  array;
 
 ### Initial Page
 
-<img id="imageid" src="screenshot\1.png"
-            alt="My GIF Image" width="150" height="180">
+![1](https://github.com/ruchipratihast/scramble_game/assets/132348008/e98d90ae-db03-4cbc-a531-6ef97cf138ab)
 
 ### When Player give Wrong Answer
 
-<img id="imageid" src="screenshot/1.png"
-            alt="My GIF Image" width="150" height="180">
+![2](https://github.com/ruchipratihast/scramble_game/assets/132348008/7cef2377-0e48-4594-ae10-c2a6bc96cb7d)
 
 ### When Player give Right Answer
 
-<img id="imageid" src="screenshot/1.png"
-            alt="My GIF Image" width="150" height="180">
+![3](https://github.com/ruchipratihast/scramble_game/assets/132348008/c39116ca-e62f-43c9-bc25-c7783dcf804f)
